@@ -35,6 +35,8 @@ Create a data folder through using the preprocess tool in the sibling folder.
 
 1. Create model folder in root directory.
 2. Create environment based on **environment.yml**.
+3. Download the model weights [here](https://www.dropbox.com/s/sbgdx4zy0w8dlp5/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5?dl=1)
+4. Place the weights in **faster_rcnn/base_models/**
 
 ### Run
 
